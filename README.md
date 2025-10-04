@@ -19,6 +19,7 @@ The data is structured at the event level with every patient experiencing one or
 3. Converted object based features to numerical ones e.g. treatment choice was converted from placebo, thiotepa and pyridoxine to 0,1,2 indicating increasing scale of treatment intensity
 4. Converted the number of recurrence feature to a binary class of 0 when no recurrence has taken place and 1 when 1+ recurrences have taken place
 5. Eliminated the number of tumors and size of tumors feature at reccurence due to extensive % of missing values
+
 No duplicates were identified and the final dataset was reduced to 118 patients. The limited size of the dataset while a challenge,  will be addressed in the modeling stage. 
 
 ## Modeling 
