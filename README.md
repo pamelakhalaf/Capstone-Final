@@ -23,5 +23,6 @@ The data is structured at the event level with every patient experiencing one or
 No duplicates were identified and the final dataset was reduced to 118 patients. The limited size of the dataset while a challenge,  will be addressed in the modeling stage. 
 
 ## Modeling 
+Given the limited size of the dataset
 
 ## Model Evaluation 
